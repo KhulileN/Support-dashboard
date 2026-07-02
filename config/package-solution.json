@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "support-dashboard-client-side-solution",
+    "id": "84178d75-2c7a-400f-9f6e-50370caafed2",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.22.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "support-dashboard description"
+      },
+      "longDescription": {
+        "default": "support-dashboard description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "support-dashboard Feature",
+        "description": "The feature that activates elements of the support-dashboard solution.",
+        "id": "1cc0d979-a06e-45de-a3d1-adf20553fc02",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/support-dashboard.sppkg"
+  }
+}
