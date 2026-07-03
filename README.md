@@ -210,5 +210,4 @@ gulp package-solution --ship
 
 ## 📄 License
 
-This project is proprietary software developed for **Wahl Industries**.
 All rights reserved.
