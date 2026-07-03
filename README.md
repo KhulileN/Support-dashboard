@@ -1,6 +1,6 @@
 # 🚀 Support Dashboard Web Part
 
-An advanced **SharePoint Framework (SPFx)** custom web part built for **Wahl Industries**. The Support Dashboard serves as a centralized operational hub, enabling users to access critical support tools, visualize team status, and trigger automated backend workflows through the Microsoft Power Platform.
+An advanced **SharePoint Framework (SPFx)** custom web part. The Support Dashboard serves as a centralized operational hub, enabling users to access critical support tools, visualize team status, and trigger automated backend workflows through the Microsoft Power Platform.
 
 ---
 
