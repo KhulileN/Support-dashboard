@@ -45,7 +45,7 @@ Yeoman (npm install --global yo)
 Installation Steps
 Clone the repository:
 
-git clone https://github.com/wahlindustries/support-dashboard.git
+git clone https://github.com/support-dashboard.git
 cd support-dashboard
 
 Install dependencies:
